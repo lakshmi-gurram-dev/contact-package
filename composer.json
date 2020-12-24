@@ -11,12 +11,12 @@
         }
      },
 
-    // "extra": {
-    //     "laravel": {
-    //         "providers": [
-    //             "Bitfumes\\Contact\\ContactServiceProvider"
-    //         ]
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bitfumes\\Contact\\ContactServiceProvider"
+            ]
            
-    //     }
-    // },
+        }
+    },
 }
